@@ -69,3 +69,5 @@ python3 solve.py add-one ktranowl
 python3 solve.py download-one ktranowl
 # saved as ./config_files/ktranowl.conf
 ```
+## Note
+Make sure that `users.txt` file contains unique names. If not, the script adds all duplicate names, but only download the first one added.
